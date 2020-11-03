@@ -15,5 +15,10 @@
 │  │  ├─isEmpty
 │  │  │    index.js
 │  │  │    README.md
+└─test
+    └─utils
+        └─isString.spec.js
+        └─concat.spec.js
+        └─isEmpty.spec.js
 
 ```
