@@ -25,3 +25,22 @@ $ tree
 |       |-- test_sandman.py
 |- setup.py
 ```
+
+## Basic
+
+```
+Project/
+|-- bin/
+|   |-- project
+|
+|-- project/
+|   |-- test/
+|   |   |-- __init__.py
+|   |   |-- test_main.py
+|   |   
+|   |-- __init__.py
+|   |-- main.py
+|
+|-- setup.py
+|-- README
+```
